@@ -13,7 +13,7 @@ b = 45;
 console.log(b);
 
 //
-Constant
+//Constant
 // Whose value don't change
 //On the terminal we can see the error---Constant is not defined//
 
