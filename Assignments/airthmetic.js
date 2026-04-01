@@ -22,8 +22,8 @@ console.log(`${digits[0]}+${digits[1]}=${sum}`);
 console.log(`${digits1[0]}+${digits1[1]}+${digits1[2]}=${sum1}`);
 console.log(`${digits2[0]}+${digits2[1]}+${digits2[2]}+${digits2[3]}+${digits2[4]}=${sum2}`);
 
-//toString() → makes the number into text.
+//toString() - makes the number into text.
 
-//split('') → cuts the text into pieces.
+//split('') -cuts the text into pieces.
 
-//map(Number) → turns each piece back into a number.
+//map(Number) - turns each piece back into a number.
