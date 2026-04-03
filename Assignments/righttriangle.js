@@ -20,5 +20,6 @@ rl.question("Enter number of rows: ", function(rows) {
 });
 
 //output = 5
-//Change the inner loop to print j instead of *.
-//pattern += String.fromCharCode(65 + j - 1) + " ";
+//right triangle *
+//right triangle number- Change the inner loop to print j instead of *.
+//right triangle alphabet- pattern += String.fromCharCode(65 + j - 1) + " ";
