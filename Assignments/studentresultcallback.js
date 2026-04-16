@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 // Step 1: Fetch marks from "DB"
 function getMarks(studentId, callback) {
   console.log(`Fetching marks for student ID: ${studentId}...`);
@@ -21,7 +25,11 @@ function calculateGrade(marks, callback) {
     else if (marks >= 75) grade = "A";
     else if (marks >= 60) grade = "B";
     else if (marks >= 40) grade = "C";
+<<<<<<< HEAD
     else grade = "B";
+=======
+    else grade = "F";
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 
     console.log(`Grade calculated: ${grade}`);
     callback(grade);

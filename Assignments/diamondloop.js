@@ -36,3 +36,7 @@ printDiamond(5, "number");
 
 console.log("\nDiamond with Alphabets:");
 printDiamond(5, "alphabet");
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

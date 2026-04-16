@@ -21,3 +21,7 @@ let result = smallestAndLargest(inputNumber);
 console.log("Input Number:", inputNumber);
 console.log("Smallest Number:", result.smallest);
 console.log("Largest Number:", result.largest);
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 // Step 1: Place Order
 function placeOrder(foodName, callback) {
   console.log(`Order placed for ${foodName}. Preparing...`);

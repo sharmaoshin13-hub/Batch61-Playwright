@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 function blockedXPattern(n) {
   const size = 2 * n - 1; // total columns
   for (let i = 1; i <= size; i++) {

@@ -19,3 +19,7 @@ for (let i = 1; i <= 100; i++) {
 
 // Display primes as a comma-separated list
 console.log(primes.join(", "));
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

@@ -23,3 +23,7 @@ console.log(divisibleBy5);
 
 console.log("\nNumbers divisible by both 3 and 5:");
 console.log(divisibleByBoth);
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

@@ -22,3 +22,7 @@ const player1 = createScoreTracker("Alice");
 player1.addPoints(10);   // Alice gained 10 points.
 player1.getScore();      // Score of Alice: 10
 player1.deductPoints(3); // Alice lost 3 points.
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

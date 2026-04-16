@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 const ar = [10, 20, 5, 17, 45, 12];
 
 // Method 1: Using Math.max and Math.min with spread operator

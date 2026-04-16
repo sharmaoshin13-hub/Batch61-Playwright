@@ -34,3 +34,7 @@ calculateInterest(customerName, principal, rate)
   .then((balance) => requestClosure(balance))
   .then((message) => console.log(message))
   .catch((error) => console.error(error));
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

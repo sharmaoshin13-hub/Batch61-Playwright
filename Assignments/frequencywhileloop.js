@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 function findDigitFrequency(number, digit) {
   // Convert number to string for easy iteration
   const numStr = number.toString();

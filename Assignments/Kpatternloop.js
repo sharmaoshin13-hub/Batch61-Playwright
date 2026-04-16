@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 function printHourglass(n, charType = "*") {
   // Helper function to get character
   function getChar(i) {

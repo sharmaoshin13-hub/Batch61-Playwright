@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
 function getFibonacciSeries(limit) {
   let series = [];
   let a = 0, b = 1;

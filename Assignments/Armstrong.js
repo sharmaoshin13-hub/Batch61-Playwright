@@ -20,3 +20,7 @@ console.log(isArmstrong(150)); // false
 console.log(isArmstrong(153)); // true
 console.log(isArmstrong(0));   // true
 console.log(isArmstrong(1));   // true
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297

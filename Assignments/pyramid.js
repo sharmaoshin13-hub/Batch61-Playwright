@@ -43,3 +43,7 @@ function alphabetPyramid(n) {
 
 // Example: n = 5
 alphabetPyramid(5);
+<<<<<<< HEAD
+=======
+
+>>>>>>> bebb24f603dcf2c71f507f02a62b1c4e21bb2297
